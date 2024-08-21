@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 0,
+    "category": "Free",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 2,
+    "name": "Music Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 20,
+    "category": "Entertainment",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 3,
+    "name": "Sports Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 50,
+    "category": "Sports",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 4,
+    "name": "Computer Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 100,
+    "category": "Computer",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 5,
+    "name": "English Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 10,
+    "category": "Study",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 6,
+    "name": "Drawing Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 700,
+    "category": "Education",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 7,
+    "name": "Free Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 0,
+    "category": "free",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 8,
+    "name": "Free Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 0,
+    "category": "free",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 9,
+    "name": "Free Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 0,
+    "category": "free",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 10,
+    "name": "Free Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 0,
+    "category": "free",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 11,
+    "name": "Free Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 0,
+    "category": "free",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 12,
+    "name": "Free Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 0,
+    "category": "free",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  },
+  {
+    "id": 13,
+    "name": "Free Book",
+    "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius sapiente dolore, deserunt aliquam alias illo, neque, inventore distinctio nam earum commodi voluptatum recusandae modi rem repellat autem nobis ab cumque!",
+    "price": 0,
+    "category": "free",
+    "imageUrl": "https://img.freepik.com/premium-photo/stack-many-books-white-background_1240525-20943.jpg?w=740"
+  }
+]
