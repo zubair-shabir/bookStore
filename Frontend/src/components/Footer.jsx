@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <>
       <hr />
-      <footer className="footer footer-center tent p-10">
+      <footer className="footer footer-center tent p-10 dark:text-white dark:bg-slate-900">
         <aside>
           <svg
             width="50"
